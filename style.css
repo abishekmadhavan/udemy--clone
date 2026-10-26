@@ -24,14 +24,14 @@ body {
 .navbar__s1__title {
     color: #a435f0;
     margin: 10px;
-    margin left: 2px;
+    
 }
 
 .navbar__s2 {
     border-radius: 40px;
     border: solid black 1px;
     padding: 8px;
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-wrap: nowrap;
     gap: 10px;
@@ -149,7 +149,7 @@ body {
 }
 
 .course-card img {
-    height: 50%;
+    height: 60%;
     width: 80%;
     align-items: center;
     margin-bottom: 5px;
